@@ -11,8 +11,7 @@ microfone quando o ditado no dispositivo estiver disponível. A voz nunca aplica
 
 Volte a Organizar para continuar uma revisão guardada. **Desfazer** preserva alterações manuais
 posteriores. Organizar não aprova nem publica conteúdo. A geração por IA e a leitura de fotos ou
-documentos estão indisponíveis; a preparação técnica funciona. Funcionalidade pendente de
-integração, sem publicação incluída.
+documentos estão indisponíveis; a preparação técnica funciona.
 
 ## English
 
@@ -31,7 +30,7 @@ restores matching organizer changes and preserves later manual edits. Filing doe
 publish or change access to media.
 
 AI-generated filing and photo/document note capture are currently unavailable. Technical filing
-continues to work. This feature is pending integration; no deployment is included in this change.
+continues to work.
 
 ## Español
 
@@ -46,5 +45,4 @@ el dictado local esté disponible. La voz nunca aplica cambios.
 
 Vuelva a Organizar para continuar una revisión guardada. **Deshacer** conserva los cambios
 manuales posteriores. Organizar no aprueba ni publica contenido. La generación por IA y lectura
-de fotos o documentos no están disponibles; la preparación técnica funciona. Función pendiente
-de integración; esta entrega no incluye publicación.
+de fotos o documentos no están disponibles; la preparación técnica funciona.
